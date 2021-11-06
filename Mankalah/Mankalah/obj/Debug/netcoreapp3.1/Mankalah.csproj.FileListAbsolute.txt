@@ -1,0 +1,13 @@
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\bin\Debug\netcoreapp3.1\Mankalah.exe
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\bin\Debug\netcoreapp3.1\Mankalah.deps.json
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\bin\Debug\netcoreapp3.1\Mankalah.runtimeconfig.json
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\bin\Debug\netcoreapp3.1\Mankalah.runtimeconfig.dev.json
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\bin\Debug\netcoreapp3.1\Mankalah.dll
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\bin\Debug\netcoreapp3.1\Mankalah.pdb
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\obj\Debug\netcoreapp3.1\Mankalah.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\obj\Debug\netcoreapp3.1\Mankalah.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\obj\Debug\netcoreapp3.1\Mankalah.AssemblyInfo.cs
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\obj\Debug\netcoreapp3.1\Mankalah.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\obj\Debug\netcoreapp3.1\Mankalah.dll
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\obj\Debug\netcoreapp3.1\Mankalah.pdb
+C:\Users\Eric\Desktop\College\Sophmore\Sem1\cs212\Projects\Mankalah\Mankalah\obj\Debug\netcoreapp3.1\Mankalah.genruntimeconfig.cache

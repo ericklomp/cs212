@@ -1,0 +1,28 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Mankalah</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Mankalah</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <CreateInPlace>true</CreateInPlace>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Mankalah.csproj" File="Mankalah.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="Board.cs">Board.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="BonzoPlayer.cs">BonzoPlayer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Edk22player.cs">Edk22player.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="file.jpeg">file.jpeg</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="HumanPlayer.cs">HumanPlayer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="KalahMatch.cs">KalahMatch.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Player.cs">Player.cs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
